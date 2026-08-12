@@ -49,3 +49,6 @@ htmlcov/
 
 # OS Files
 Thumbs.db
+
+# db
+*.db
