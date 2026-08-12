@@ -1,0 +1,337 @@
+month,topic,typical_name_gender,share_of_messages
+2024-07-01,Multimedia,feminine,0.305
+2024-07-01,Multimedia,masculine,0.695
+2024-07-01,Other/Unknown,feminine,0.377
+2024-07-01,Other/Unknown,masculine,0.623
+2024-07-01,Practical Guidance,feminine,0.436
+2024-07-01,Practical Guidance,masculine,0.564
+2024-07-01,Seeking information,feminine,0.391
+2024-07-01,Seeking information,masculine,0.609
+2024-07-01,Self-expression,feminine,0.438
+2024-07-01,Self-expression,masculine,0.562
+2024-07-01,Technical help,feminine,0.264
+2024-07-01,Technical help,masculine,0.736
+2024-07-01,Writing,feminine,0.492
+2024-07-01,Writing,masculine,0.508
+2024-08-01,Multimedia,feminine,0.338
+2024-08-01,Multimedia,masculine,0.662
+2024-08-01,Other/Unknown,feminine,0.387
+2024-08-01,Other/Unknown,masculine,0.613
+2024-08-01,Practical Guidance,feminine,0.438
+2024-08-01,Practical Guidance,masculine,0.562
+2024-08-01,Seeking information,feminine,0.389
+2024-08-01,Seeking information,masculine,0.611
+2024-08-01,Self-expression,feminine,0.446
+2024-08-01,Self-expression,masculine,0.554
+2024-08-01,Technical help,feminine,0.260
+2024-08-01,Technical help,masculine,0.740
+2024-08-01,Writing,feminine,0.499
+2024-08-01,Writing,masculine,0.501
+2024-09-01,Multimedia,feminine,0.351
+2024-09-01,Multimedia,masculine,0.649
+2024-09-01,Other/Unknown,feminine,0.405
+2024-09-01,Other/Unknown,masculine,0.595
+2024-09-01,Practical Guidance,feminine,0.459
+2024-09-01,Practical Guidance,masculine,0.541
+2024-09-01,Seeking information,feminine,0.413
+2024-09-01,Seeking information,masculine,0.587
+2024-09-01,Self-expression,feminine,0.466
+2024-09-01,Self-expression,masculine,0.534
+2024-09-01,Technical help,feminine,0.286
+2024-09-01,Technical help,masculine,0.714
+2024-09-01,Writing,feminine,0.506
+2024-09-01,Writing,masculine,0.494
+2024-10-01,Multimedia,feminine,0.366
+2024-10-01,Multimedia,masculine,0.634
+2024-10-01,Other/Unknown,feminine,0.423
+2024-10-01,Other/Unknown,masculine,0.577
+2024-10-01,Practical Guidance,feminine,0.471
+2024-10-01,Practical Guidance,masculine,0.529
+2024-10-01,Seeking information,feminine,0.426
+2024-10-01,Seeking information,masculine,0.574
+2024-10-01,Self-expression,feminine,0.484
+2024-10-01,Self-expression,masculine,0.516
+2024-10-01,Technical help,feminine,0.294
+2024-10-01,Technical help,masculine,0.706
+2024-10-01,Writing,feminine,0.519
+2024-10-01,Writing,masculine,0.481
+2024-11-01,Multimedia,feminine,0.392
+2024-11-01,Multimedia,masculine,0.608
+2024-11-01,Other/Unknown,feminine,0.433
+2024-11-01,Other/Unknown,masculine,0.567
+2024-11-01,Practical Guidance,feminine,0.483
+2024-11-01,Practical Guidance,masculine,0.517
+2024-11-01,Seeking information,feminine,0.429
+2024-11-01,Seeking information,masculine,0.571
+2024-11-01,Self-expression,feminine,0.524
+2024-11-01,Self-expression,masculine,0.476
+2024-11-01,Technical help,feminine,0.306
+2024-11-01,Technical help,masculine,0.694
+2024-11-01,Writing,feminine,0.527
+2024-11-01,Writing,masculine,0.473
+2024-12-01,Multimedia,feminine,0.389
+2024-12-01,Multimedia,masculine,0.611
+2024-12-01,Other/Unknown,feminine,0.426
+2024-12-01,Other/Unknown,masculine,0.574
+2024-12-01,Practical Guidance,feminine,0.472
+2024-12-01,Practical Guidance,masculine,0.528
+2024-12-01,Seeking information,feminine,0.414
+2024-12-01,Seeking information,masculine,0.586
+2024-12-01,Self-expression,feminine,0.528
+2024-12-01,Self-expression,masculine,0.472
+2024-12-01,Technical help,feminine,0.299
+2024-12-01,Technical help,masculine,0.701
+2024-12-01,Writing,feminine,0.522
+2024-12-01,Writing,masculine,0.478
+2025-01-01,Multimedia,feminine,0.392
+2025-01-01,Multimedia,masculine,0.608
+2025-01-01,Other/Unknown,feminine,0.428
+2025-01-01,Other/Unknown,masculine,0.572
+2025-01-01,Practical Guidance,feminine,0.481
+2025-01-01,Practical Guidance,masculine,0.519
+2025-01-01,Seeking information,feminine,0.415
+2025-01-01,Seeking information,masculine,0.585
+2025-01-01,Self-expression,feminine,0.523
+2025-01-01,Self-expression,masculine,0.477
+2025-01-01,Technical help,feminine,0.301
+2025-01-01,Technical help,masculine,0.699
+2025-01-01,Writing,feminine,0.526
+2025-01-01,Writing,masculine,0.474
+2025-02-01,Multimedia,feminine,0.394
+2025-02-01,Multimedia,masculine,0.606
+2025-02-01,Other/Unknown,feminine,0.431
+2025-02-01,Other/Unknown,masculine,0.569
+2025-02-01,Practical Guidance,feminine,0.482
+2025-02-01,Practical Guidance,masculine,0.518
+2025-02-01,Seeking information,feminine,0.419
+2025-02-01,Seeking information,masculine,0.581
+2025-02-01,Self-expression,feminine,0.534
+2025-02-01,Self-expression,masculine,0.466
+2025-02-01,Technical help,feminine,0.305
+2025-02-01,Technical help,masculine,0.695
+2025-02-01,Writing,feminine,0.532
+2025-02-01,Writing,masculine,0.468
+2025-03-01,Multimedia,feminine,0.417
+2025-03-01,Multimedia,masculine,0.583
+2025-03-01,Other/Unknown,feminine,0.443
+2025-03-01,Other/Unknown,masculine,0.557
+2025-03-01,Practical Guidance,feminine,0.492
+2025-03-01,Practical Guidance,masculine,0.508
+2025-03-01,Seeking information,feminine,0.435
+2025-03-01,Seeking information,masculine,0.565
+2025-03-01,Self-expression,feminine,0.558
+2025-03-01,Self-expression,masculine,0.442
+2025-03-01,Technical help,feminine,0.318
+2025-03-01,Technical help,masculine,0.682
+2025-03-01,Writing,feminine,0.542
+2025-03-01,Writing,masculine,0.458
+2025-04-01,Multimedia,feminine,0.470
+2025-04-01,Multimedia,masculine,0.530
+2025-04-01,Other/Unknown,feminine,0.468
+2025-04-01,Other/Unknown,masculine,0.532
+2025-04-01,Practical Guidance,feminine,0.500
+2025-04-01,Practical Guidance,masculine,0.500
+2025-04-01,Seeking information,feminine,0.441
+2025-04-01,Seeking information,masculine,0.559
+2025-04-01,Self-expression,feminine,0.594
+2025-04-01,Self-expression,masculine,0.406
+2025-04-01,Technical help,feminine,0.316
+2025-04-01,Technical help,masculine,0.684
+2025-04-01,Writing,feminine,0.549
+2025-04-01,Writing,masculine,0.451
+2025-05-01,Multimedia,feminine,0.468
+2025-05-01,Multimedia,masculine,0.532
+2025-05-01,Other/Unknown,feminine,0.475
+2025-05-01,Other/Unknown,masculine,0.525
+2025-05-01,Practical Guidance,feminine,0.506
+2025-05-01,Practical Guidance,masculine,0.494
+2025-05-01,Seeking information,feminine,0.446
+2025-05-01,Seeking information,masculine,0.554
+2025-05-01,Self-expression,feminine,0.592
+2025-05-01,Self-expression,masculine,0.408
+2025-05-01,Technical help,feminine,0.325
+2025-05-01,Technical help,masculine,0.675
+2025-05-01,Writing,feminine,0.559
+2025-05-01,Writing,masculine,0.441
+2025-06-01,Multimedia,feminine,0.474
+2025-06-01,Multimedia,masculine,0.526
+2025-06-01,Other/Unknown,feminine,0.471
+2025-06-01,Other/Unknown,masculine,0.529
+2025-06-01,Practical Guidance,feminine,0.506
+2025-06-01,Practical Guidance,masculine,0.494
+2025-06-01,Seeking information,feminine,0.449
+2025-06-01,Seeking information,masculine,0.551
+2025-06-01,Self-expression,feminine,0.592
+2025-06-01,Self-expression,masculine,0.408
+2025-06-01,Technical help,feminine,0.322
+2025-06-01,Technical help,masculine,0.678
+2025-06-01,Writing,feminine,0.553
+2025-06-01,Writing,masculine,0.447
+2025-07-01,Multimedia,feminine,0.474
+2025-07-01,Multimedia,masculine,0.526
+2025-07-01,Other/Unknown,feminine,0.470
+2025-07-01,Other/Unknown,masculine,0.530
+2025-07-01,Practical Guidance,feminine,0.500
+2025-07-01,Practical Guidance,masculine,0.500
+2025-07-01,Seeking information,feminine,0.439
+2025-07-01,Seeking information,masculine,0.561
+2025-07-01,Self-expression,feminine,0.610
+2025-07-01,Self-expression,masculine,0.390
+2025-07-01,Technical help,feminine,0.310
+2025-07-01,Technical help,masculine,0.690
+2025-07-01,Writing,feminine,0.554
+2025-07-01,Writing,masculine,0.446
+2025-08-01,Multimedia,feminine,0.466
+2025-08-01,Multimedia,masculine,0.534
+2025-08-01,Other/Unknown,feminine,0.476
+2025-08-01,Other/Unknown,masculine,0.524
+2025-08-01,Practical Guidance,feminine,0.506
+2025-08-01,Practical Guidance,masculine,0.494
+2025-08-01,Seeking information,feminine,0.436
+2025-08-01,Seeking information,masculine,0.564
+2025-08-01,Self-expression,feminine,0.612
+2025-08-01,Self-expression,masculine,0.388
+2025-08-01,Technical help,feminine,0.312
+2025-08-01,Technical help,masculine,0.688
+2025-08-01,Writing,feminine,0.557
+2025-08-01,Writing,masculine,0.443
+2025-09-01,Multimedia,feminine,0.490
+2025-09-01,Multimedia,masculine,0.510
+2025-09-01,Other/Unknown,feminine,0.494
+2025-09-01,Other/Unknown,masculine,0.506
+2025-09-01,Practical Guidance,feminine,0.517
+2025-09-01,Practical Guidance,masculine,0.483
+2025-09-01,Seeking information,feminine,0.448
+2025-09-01,Seeking information,masculine,0.552
+2025-09-01,Self-expression,feminine,0.608
+2025-09-01,Self-expression,masculine,0.392
+2025-09-01,Technical help,feminine,0.341
+2025-09-01,Technical help,masculine,0.659
+2025-09-01,Writing,feminine,0.565
+2025-09-01,Writing,masculine,0.435
+2025-10-01,Multimedia,feminine,0.488
+2025-10-01,Multimedia,masculine,0.512
+2025-10-01,Other/Unknown,feminine,0.491
+2025-10-01,Other/Unknown,masculine,0.509
+2025-10-01,Practical Guidance,feminine,0.529
+2025-10-01,Practical Guidance,masculine,0.471
+2025-10-01,Seeking information,feminine,0.455
+2025-10-01,Seeking information,masculine,0.545
+2025-10-01,Self-expression,feminine,0.610
+2025-10-01,Self-expression,masculine,0.390
+2025-10-01,Technical help,feminine,0.348
+2025-10-01,Technical help,masculine,0.652
+2025-10-01,Writing,feminine,0.570
+2025-10-01,Writing,masculine,0.430
+2025-11-01,Multimedia,feminine,0.482
+2025-11-01,Multimedia,masculine,0.518
+2025-11-01,Other/Unknown,feminine,0.508
+2025-11-01,Other/Unknown,masculine,0.492
+2025-11-01,Practical Guidance,feminine,0.526
+2025-11-01,Practical Guidance,masculine,0.474
+2025-11-01,Seeking information,feminine,0.460
+2025-11-01,Seeking information,masculine,0.540
+2025-11-01,Self-expression,feminine,0.625
+2025-11-01,Self-expression,masculine,0.375
+2025-11-01,Technical help,feminine,0.351
+2025-11-01,Technical help,masculine,0.649
+2025-11-01,Writing,feminine,0.570
+2025-11-01,Writing,masculine,0.430
+2025-12-01,Multimedia,feminine,0.472
+2025-12-01,Multimedia,masculine,0.528
+2025-12-01,Other/Unknown,feminine,0.495
+2025-12-01,Other/Unknown,masculine,0.505
+2025-12-01,Practical Guidance,feminine,0.519
+2025-12-01,Practical Guidance,masculine,0.481
+2025-12-01,Seeking information,feminine,0.455
+2025-12-01,Seeking information,masculine,0.545
+2025-12-01,Self-expression,feminine,0.623
+2025-12-01,Self-expression,masculine,0.377
+2025-12-01,Technical help,feminine,0.352
+2025-12-01,Technical help,masculine,0.648
+2025-12-01,Writing,feminine,0.564
+2025-12-01,Writing,masculine,0.436
+2026-01-01,Multimedia,feminine,0.492
+2026-01-01,Multimedia,masculine,0.508
+2026-01-01,Other/Unknown,feminine,0.502
+2026-01-01,Other/Unknown,masculine,0.498
+2026-01-01,Practical Guidance,feminine,0.529
+2026-01-01,Practical Guidance,masculine,0.471
+2026-01-01,Seeking information,feminine,0.468
+2026-01-01,Seeking information,masculine,0.532
+2026-01-01,Self-expression,feminine,0.616
+2026-01-01,Self-expression,masculine,0.384
+2026-01-01,Technical help,feminine,0.365
+2026-01-01,Technical help,masculine,0.635
+2026-01-01,Writing,feminine,0.565
+2026-01-01,Writing,masculine,0.435
+2026-02-01,Multimedia,feminine,0.511
+2026-02-01,Multimedia,masculine,0.489
+2026-02-01,Other/Unknown,feminine,0.506
+2026-02-01,Other/Unknown,masculine,0.494
+2026-02-01,Practical Guidance,feminine,0.534
+2026-02-01,Practical Guidance,masculine,0.466
+2026-02-01,Seeking information,feminine,0.476
+2026-02-01,Seeking information,masculine,0.524
+2026-02-01,Self-expression,feminine,0.627
+2026-02-01,Self-expression,masculine,0.373
+2026-02-01,Technical help,feminine,0.372
+2026-02-01,Technical help,masculine,0.628
+2026-02-01,Writing,feminine,0.572
+2026-02-01,Writing,masculine,0.428
+2026-03-01,Multimedia,feminine,0.512
+2026-03-01,Multimedia,masculine,0.488
+2026-03-01,Other/Unknown,feminine,0.518
+2026-03-01,Other/Unknown,masculine,0.482
+2026-03-01,Practical Guidance,feminine,0.545
+2026-03-01,Practical Guidance,masculine,0.455
+2026-03-01,Seeking information,feminine,0.477
+2026-03-01,Seeking information,masculine,0.523
+2026-03-01,Self-expression,feminine,0.628
+2026-03-01,Self-expression,masculine,0.372
+2026-03-01,Technical help,feminine,0.386
+2026-03-01,Technical help,masculine,0.614
+2026-03-01,Writing,feminine,0.575
+2026-03-01,Writing,masculine,0.425
+2026-04-01,Multimedia,feminine,0.519
+2026-04-01,Multimedia,masculine,0.481
+2026-04-01,Other/Unknown,feminine,0.508
+2026-04-01,Other/Unknown,masculine,0.492
+2026-04-01,Practical Guidance,feminine,0.545
+2026-04-01,Practical Guidance,masculine,0.455
+2026-04-01,Seeking information,feminine,0.476
+2026-04-01,Seeking information,masculine,0.524
+2026-04-01,Self-expression,feminine,0.619
+2026-04-01,Self-expression,masculine,0.381
+2026-04-01,Technical help,feminine,0.389
+2026-04-01,Technical help,masculine,0.611
+2026-04-01,Writing,feminine,0.578
+2026-04-01,Writing,masculine,0.422
+2026-05-01,Multimedia,feminine,0.517
+2026-05-01,Multimedia,masculine,0.483
+2026-05-01,Other/Unknown,feminine,0.504
+2026-05-01,Other/Unknown,masculine,0.496
+2026-05-01,Practical Guidance,feminine,0.548
+2026-05-01,Practical Guidance,masculine,0.452
+2026-05-01,Seeking information,feminine,0.475
+2026-05-01,Seeking information,masculine,0.525
+2026-05-01,Self-expression,feminine,0.622
+2026-05-01,Self-expression,masculine,0.378
+2026-05-01,Technical help,feminine,0.400
+2026-05-01,Technical help,masculine,0.600
+2026-05-01,Writing,feminine,0.579
+2026-05-01,Writing,masculine,0.421
+2026-06-01,Multimedia,feminine,0.505
+2026-06-01,Multimedia,masculine,0.495
+2026-06-01,Other/Unknown,feminine,0.502
+2026-06-01,Other/Unknown,masculine,0.498
+2026-06-01,Practical Guidance,feminine,0.545
+2026-06-01,Practical Guidance,masculine,0.455
+2026-06-01,Seeking information,feminine,0.477
+2026-06-01,Seeking information,masculine,0.523
+2026-06-01,Self-expression,feminine,0.625
+2026-06-01,Self-expression,masculine,0.375
+2026-06-01,Technical help,feminine,0.394
+2026-06-01,Technical help,masculine,0.606
+2026-06-01,Writing,feminine,0.573
+2026-06-01,Writing,masculine,0.427
