@@ -4,7 +4,7 @@
 # 📊 DataSage
 
 ### AI-Powered Natural Language Analytics Platform
-
+DataSage enables users to explore structured datasets using natural language. Users can ask questions in plain English, and DataSage automatically converts them into SQL queries, executes them on a SQLite database, generates interactive visualizations, and provides AI-powered business insights.
 *Ask questions in plain English. Get SQL, charts, and business insights instantly.*
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -228,7 +228,7 @@ The current version analyzes **global ChatGPT usage trends**:
 B.Tech CSE (Cybersecurity) · MIT World Peace University
 
 </div>
-=======
-# DataSage
-DataSage enables users to explore structured datasets using natural language. Users can ask questions in plain English, and DataSage automatically converts them into SQL queries, executes them on a SQLite database, generates interactive visualizations, and provides AI-powered business insights.
->>>>>>> 3507c04fb453adafa2b5bb79d035c6e66717537c
+
+
+
+
